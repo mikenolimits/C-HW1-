@@ -9,7 +9,7 @@ unsigned int height;
 // This is due to the fact that more integers = more bbytes taken up & more inefficiency.
 // Floating points remedy the preformance hit in exchange for less accurate calculations. 
 
-cout<<"Hi. My name is Steve, the rectangle calculater."<<"\n"<<"Please note that I calculate longer integers as floating points, due to this, larger calculations might not appear to be as accurate."<<"\n"; 
+cout<<"Hi. My name is Steve, the rectangle calculater. \n Please note that I calculate longer integers as floating points, due to this, larger calculations might not appear to be as accurate.\n"; 
 
 cout<<"Now that we cleared that up....What is the width of your rectangle?";
 
